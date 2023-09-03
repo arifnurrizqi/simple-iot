@@ -2,7 +2,7 @@
 #include "Adafruit_MQTT.h"
 #include "Adafruit_MQTT_Client.h"
 
-#define Relay1            2
+#define Relay1            5
 
 #define WLAN_SSID       "realme C2"             // Your SSID
 #define WLAN_PASS       "asdfghjkl"        // Your password
@@ -12,7 +12,7 @@
 #define AIO_SERVER      "io.adafruit.com"
 #define AIO_SERVERPORT  1883                   // use 8883 for SSL
 #define AIO_USERNAME    "arif_rizqi"            // Replace it with your username
-#define AIO_KEY         "aio_uXOD20gSMfl8t36jz6ofw167SONm"   // Replace with your Project Auth Key
+#define AIO_KEY         "aio_uXOD20gSMfl8t36jz6ofw16xxxxx"   // Replace with your Project Auth Key
 
 /************ Global State (you don't need to change this!) ******************/
 
